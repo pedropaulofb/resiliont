@@ -17,9 +17,9 @@ ResiliOnt leverages concepts from the [Common Ontology of Value and Risk (COVER)
 - **ResiliOnt.vpp**: The editable Visual Paradigm project file containing the OntoUML ontology model and UML Object Diagrams with examples of possible instantiations.
 - **Images**: Images of the OntoUML model and UML Object diagrams illustrating examples of the ontology's instantiation.
 
-## How to Cite
+<!-- ## How to Cite
 
-If you use this ontology, please cite it using the information provided in the `CITATION.cff` file available in the repository. You can find the citation file [here](https://github.com/pedropaulofb/resiliont/blob/main/CITATION.cff).
+If you use this ontology, please cite it using the information provided in the `CITATION.cff` file available in the repository. You can find the citation file [here](https://github.com/pedropaulofb/resiliont/blob/main/CITATION.cff). -->
 
 ## How to Contribute
 
