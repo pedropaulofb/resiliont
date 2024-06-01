@@ -14,7 +14,8 @@ ResiliOnt leverages concepts from the [Common Ontology of Value and Risk (COVER)
 
 ## Contents
 
-- **ResiliOnt.vpp**: The editable Visual Paradigm project file containing the OntoUML ontology model and UML Object Diagrams with examples of possible instantiations.
+- **vpp**: The editable Visual Paradigm project file containing the OntoUML ontology model and UML Object Diagrams with examples of possible instantiations.
+- **json**: The OntoUML model serialized to JSON using [OntoUML-Schema](https://w3id.org/ontouml/schema).
 - **Images**: Images of the OntoUML model and UML Object diagrams illustrating examples of the ontology's instantiation.
 
 <!-- ## How to Cite
