@@ -18,15 +18,15 @@ ResiliOnt leverages concepts from the [Common Ontology of Value and Risk (COVER)
 - **json**: The OntoUML model serialized to JSON using [OntoUML-Schema](https://w3id.org/ontouml/schema).
 - **Images**: Images of the OntoUML model and UML Object diagrams illustrating examples of the ontology's instantiation.
 
-<!-- ## How to Cite
+## How to Cite
 
-If you use this ontology, please cite it using the information provided in the `CITATION.cff` file available in the repository. You can find the citation file [here](https://github.com/pedropaulofb/resiliont/blob/main/CITATION.cff). -->
+If you use this ontology, please cite it using the information provided in the `CITATION.cff` file available in the repository. You can find the citation file [here](https://github.com/pedropaulofb/resiliont/blob/main/CITATION.cff).
 
 ## How to Contribute
 
 Contributions are welcomed! If you would like to contribute, you can create Pull Requests (PRs) or open issues in the repository.
 
-<!-- ## Authors
+## Authors
 
 This work was developed by researchers from the [Business Informatics Group of Ghent University, Belgium](https://ugent-businessinformatics.github.io/) and the [Semantics, Cybersecurity & Services Group at the University of Twente, Netherlands](https://www.utwente.nl/en/eemcs/scs/).
 
@@ -36,4 +36,4 @@ This work was developed by researchers from the [Business Informatics Group of G
 - [Tiago Prince Sales](https://orcid.org/0000-0002-5385-5761) [[GitHub](https://github.com/tgoprince)] [[LinkedIn](https://www.linkedin.com/in/tiago-sales/)]
 - [Frederik Gailly](https://orcid.org/0000-0003-0481-9745) [[GitHub](https://github.com/fgailly)] [[LinkedIn](https://www.linkedin.com/in/fgailly/)]
 - [Geert Poels](https://orcid.org/0000-0001-9247-6150) [[GitHub](https://github.com/geertpoels)] [[LinkedIn](https://www.linkedin.com/in/geert-p-039198287/)]
-- [Giancarlo Guizzardi](https://orcid.org/0000-0002-3452-553X) [[LinkedIn](https://www.linkedin.com/in/giancarlo-guizzardi/)] -->
+- [Giancarlo Guizzardi](https://orcid.org/0000-0002-3452-553X) [[LinkedIn](https://www.linkedin.com/in/giancarlo-guizzardi/)]
