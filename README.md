@@ -1,7 +1,7 @@
 # ResiliOnt: The Resilience Core Ontology 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedropaulofb/resiliont/main/resources/logos/Slide9.PNG" alt="Logo" style="width:500px">
+  <img src="https://raw.githubusercontent.com/pedropaulofb/resiliont/main/resources/logos/resiliont-logo-06.PNG" alt="Logo" style="width:500px">
 </p>
 
 This repository hosts ResiliOnt, a core ontology that aims to provide a clear and robust definition of resilience by leveraging the Unified Foundational Ontology (UFO) and OntoUML. By addressing the ambiguities and inconsistencies in existing definitions of resilience, ResiliOnt seeks to ensure interoperability and clarity across various domains and facilitate interdisciplinary research.
@@ -20,7 +20,9 @@ ResiliOnt leverages concepts from the [Common Ontology of Value and Risk (COVER)
 
 - **vpp**: The editable Visual Paradigm project file containing the OntoUML ontology model and UML Object Diagrams with examples of possible instantiations.
 - **json**: The OntoUML model serialized to JSON using [OntoUML-Schema](https://w3id.org/ontouml/schema).
-- **Images**: Images of the OntoUML model and UML Object diagrams illustrating examples of the ontology's instantiation.
+- **images/**: Images of the OntoUML model and UML Object diagrams illustrating examples of the ontology's instantiation.
+- **archieve/**: Old versions of ResiliOnt.
+- **resources/**: Auxiliary files.
 
 ## How to Cite
 

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this ontology, please cite it using the following metadata."
+message: "To cite this repository, please use the following metadata. To cite ResiliOnt, follow instructions on README.md file. "
 title: "ResiliOnt: A Core Ontology for Resilience"
 authors:
   - given-names: "Pedro Paulo"
