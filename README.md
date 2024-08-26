@@ -36,10 +36,60 @@ Contributions are welcomed! If you would like to contribute, you can create Pull
 
 This work was developed by researchers from the [Business Informatics Group of Ghent University, Belgium](https://ugent-businessinformatics.github.io/) and the [Semantics, Cybersecurity & Services Group at the University of Twente, Netherlands](https://www.utwente.nl/en/eemcs/scs/).
 
-- [Pedro Paulo F. Barcelos](https://orcid.org/0000-0003-2736-7817) [[GitHub](https://github.com/pedropaulofb)] [[LinkedIn](https://www.linkedin.com/in/pedro-paulo-favato-barcelos/)]
-- [Rodrigo F. Calhau](https://orcid.org/0009-0006-6051-2165) [[GitHub](https://github.com/rfcalhau)] [[LinkedIn](https://www.linkedin.com/in/rodrigo-f-calhau-a6663776/)]
-- [Ítalo Oliveira](https://orcid.org/0000-0002-2384-3081) [[GitHub](https://github.com/italojsoliveira)] [[LinkedIn](https://www.linkedin.com/in/%C3%ADtalo-oliveira-800923162/)]
-- [Tiago Prince Sales](https://orcid.org/0000-0002-5385-5761) [[GitHub](https://github.com/tgoprince)] [[LinkedIn](https://www.linkedin.com/in/tiago-sales/)]
-- [Frederik Gailly](https://orcid.org/0000-0003-0481-9745) [[GitHub](https://github.com/fgailly)] [[LinkedIn](https://www.linkedin.com/in/fgailly/)]
-- [Geert Poels](https://orcid.org/0000-0001-9247-6150) [[GitHub](https://github.com/geertpoels)] [[LinkedIn](https://www.linkedin.com/in/geert-p-039198287/)]
-- [Giancarlo Guizzardi](https://orcid.org/0000-0002-3452-553X) [[LinkedIn](https://www.linkedin.com/in/giancarlo-guizzardi/)]
+<table>
+  <tr>
+    <td><strong>Pedro Paulo F. Barcelos</strong></td>
+    <td>
+      <a href="https://orcid.org/0000-0003-2736-7817"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://github.com/pedropaulofb"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/></a>
+      <a href="https://www.linkedin.com/in/pedro-paulo-favato-barcelos/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Rodrigo F. Calhau</strong></td>
+    <td>
+      <a href="https://orcid.org/0009-0006-6051-2165"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://github.com/rfcalhau"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/></a>
+      <a href="https://www.linkedin.com/in/rodrigo-f-calhau-a6663776/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Ítalo Oliveira</strong></td>
+    <td>
+      <a href="https://orcid.org/0000-0002-2384-3081"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://github.com/italojsoliveira"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/></a>
+      <a href="https://www.linkedin.com/in/%C3%ADtalo-oliveira-800923162/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tiago Prince Sales</strong></td>
+    <td>
+      <a href="https://orcid.org/0000-0002-5385-5761"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://github.com/tgoprince"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/></a>
+      <a href="https://www.linkedin.com/in/tiago-sales/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frederik Gailly</strong></td>
+    <td>
+      <a href="https://orcid.org/0000-0003-0481-9745"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://github.com/fgailly"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/></a>
+      <a href="https://www.linkedin.com/in/fgailly/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Geert Poels</strong></td>
+    <td>
+      <a href="https://orcid.org/0000-0001-9247-6150"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://github.com/geertpoels"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20"/></a>
+      <a href="https://www.linkedin.com/in/geert-p-039198287/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Giancarlo Guizzardi</strong></td>
+    <td>
+      <a href="https://orcid.org/0000-0002-3452-553X"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20"/></a>
+      <a href="https://www.linkedin.com/in/giancarlo-guizzardi/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/></a>
+    </td>
+  </tr>
+</table>
