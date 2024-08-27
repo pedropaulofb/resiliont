@@ -26,7 +26,24 @@ ResiliOnt leverages concepts from the [Common Ontology of Value and Risk (COVER)
 
 ## How to Cite
 
-If you use this ontology, please cite it using the information provided in the `CITATION.cff` file available in the repository. You can find the citation file [here](https://github.com/pedropaulofb/resiliont/blob/main/CITATION.cff).
+If you use this work in your research, please cite it as follows:
+
+**APA Style Citation:**
+
+Barcelos, P. P. F., Calhau, R. F., Oliveira, Í., Sales, T. P., Gailly, F., Poels, G., & Guizzardi, G. (2024). *Ontological foundations of resilience*. In *Proceedings of the 43rd International Conference on Conceptual Modeling: Conceptual Modeling, AI, and Beyond* (ER 2024). Pittsburgh, Pennsylvania, USA, October 28-31.
+
+**BibTeX Citation:**
+
+```bibtex
+@inproceedings{barcelos2024ontological,
+title={Ontological foundations of resilience},
+author={Barcelos, Pedro Paulo F. and Calhau, Rodrigo F. and Oliveira, Ítalo and Sales, Tiago Prince and Gailly, Frederik and Poels, Geert and Guizzardi, Giancarlo},
+booktitle={Proceedings of the 43rd International Conference on Conceptual Modeling: Conceptual Modeling, AI, and Beyond (ER 2024)},
+year={2024},
+address={Pittsburgh, Pennsylvania, USA},
+month={October 28-31}
+}
+```
 
 ## How to Contribute
 
