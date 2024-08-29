@@ -18,11 +18,12 @@ ResiliOnt leverages concepts from the [Common Ontology of Value and Risk (COVER)
 
 ## Contents
 
+ResiliOnt is found in the `ontouml/` folder. The files there contained are:
+
 - **vpp**: The editable Visual Paradigm project file containing the OntoUML ontology model and UML Object Diagrams with examples of possible instantiations.
 - **json**: The OntoUML model serialized to JSON using [OntoUML-Schema](https://w3id.org/ontouml/schema).
 - **images/**: Images of the OntoUML model and UML Object diagrams illustrating examples of the ontology's instantiation.
 - **archive/**: Old versions of ResiliOnt.
-- **resources/**: Auxiliary files.
 
 ## How to Cite
 
