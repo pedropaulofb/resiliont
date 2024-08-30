@@ -6,7 +6,7 @@
 
 This repository hosts ResiliOnt, a core ontology that aims to provide a clear and robust definition of resilience by leveraging the Unified Foundational Ontology (UFO) and OntoUML. By addressing the ambiguities and inconsistencies in existing definitions of resilience, ResiliOnt seeks to ensure interoperability and clarity across various domains and facilitate interdisciplinary research.
 
-The work described in this repository is presented in the academic paper [**"Ontological Foundations of Resilience"**](https://github.com/pedropaulofb/resiliont/blob/main/resources/Ontological%20Foundations%20of%20Resilience.pdf), which can be downloaded from the link.
+The work described in this repository is presented in the academic paper [**"Ontological Foundations of Resilience"**](https://raw.githubusercontent.com/pedropaulofb/resiliont/main/resources/Ontological%20Foundations%20of%20Resilience.pdf), which can be downloaded from the link.
 
 ## Related Ontologies
 
@@ -48,7 +48,7 @@ month={October 28-31}
 }
 ```
 
-You can download the full paper [here](https://github.com/pedropaulofb/resiliont/blob/main/resources/Ontological%20Foundations%20of%20Resilience.pdf).
+You can download the full paper [here](https://raw.githubusercontent.com/pedropaulofb/resiliont/main/resources/Ontological%20Foundations%20of%20Resilience.pdf).
 
 ## How to Contribute
 
