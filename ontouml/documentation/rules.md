@@ -57,12 +57,12 @@ These abbreviations will be used consistently throughout the diagrams.
 
 The image below serves as a summary of all the rules that will be detailed in this section. Each subsequent subsection will present a specific rule with its formal logical expression in LaTeX and a focused diagram illustrating only the elements pertinent to that rule.
 
-<img src="rules_images/Risk_Entities.png" alt="Overview of Risk Entities' Rules" width="500"/>
+<img src="rules_images/Risk_Entities.png" alt="Overview of Risk Entities' Rules" width="720"/>
 
 
 #### Rule R.OR.ORC.ORV
 
-<img src="rules_images/Rule_RORORCORV.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_RORORCORV.png" alt="Alt text" width="720"/>
 
 For any ObjectAtRisksCapability and ObjectAtRisksVulnerability, if the ObjectAtRisksCapability is exposed by the ObjectAtRisksVulnerability, then there is exactly one ObjectAtRisk in which both the ObjectAtRisksCapability and the ObjectAtRisksVulnerability are inherent.
 
@@ -72,7 +72,7 @@ $$
 
 #### Rule D.ORC.ORV.TET
 
-<img src="rules_images/Rule_DORCORVTET.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORCORVTET.png" alt="Alt text" width="720"/>
 
 For any ObjectAtRisksVulnerability, ObjectAtRisksCapability, and ThreatEventType, if the ObjectAtRisksVulnerability exposes the ObjectAtRisksCapability and also defines the ThreatEventType, then the ThreatEventType poses a hazard to the ObjectAtRisksCapability.
 
@@ -82,7 +82,7 @@ $$
 
 #### Rule D.ORC.TE.TET
 
-<img src="rules_images/Rule_DORCTETET.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORCTETET.png" alt="Alt text" width="720"/>
 
 For any ThreatEvent, ThreatEventType, and ObjectAtRisksCapability, if the ThreatEvent is an instance of the ThreatEventType and the ThreatEventType hazards the ObjectAtRisksCapability, then the ThreatEvent has hazarded the ObjectAtRisksCapability.
 
@@ -92,7 +92,7 @@ $$
 
 #### Rule D.OR.ORV.TET
 
-<img src="rules_images/Rule_DORORVTET.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORORVTET.png" alt="Alt text" width="720"/>
 
 For any ObjectAtRisk, ObjectAtRisksVulnerability, and ThreatEventType, if the ObjectAtRisksVulnerability inheres in the ObjectAtRisk and defines the ThreatEventType, then the ThreatEventType threatens the ObjectAtRisk.
 
@@ -102,7 +102,7 @@ $$
 
 #### Rule D.OR.TE.TET
 
-<img src="rules_images/Rule_DORTETET.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORTETET.png" alt="Alt text" width="720"/>
 
 For any ThreatEvent, ThreatEventType, and ObjectAtRisk, if the ThreatEvent is an instance of the ThreatEventType and the ThreatEventType threatens the ObjectAtRisk, then the ThreatEvent has threatened the ObjectAtRisk.
 
@@ -112,7 +112,7 @@ $$
 
 #### Rule R.ORV.TE.TET
 
-<img src="rules_images/Rule_RORVTETET.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_RORVTETET.png" alt="Alt text" width="720"/>
 
 For any ObjectAtRisksVulnerability and ThreatEvent, if the ObjectAtRisksVulnerability is manifested in the ThreatEvent, then there exists a ThreatEventType such that the ObjectAtRisksVulnerability defines the ThreatEventType and the ThreatEvent is an instance of the ThreatEventType.
 
@@ -122,7 +122,7 @@ $$
 
 #### Rule D.ORV.TC.TE
 
-<img src="rules_images/Rule_DORVTCTE.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORVTCTE.png" alt="Alt text" width="720"/>
 
 For any ObjectAtRisksVulnerability, ThreatCapability, and ThreatEvent, if the ObjectAtRisksVulnerability and the ThreatCapability are both manifested in the ThreatEvent, then the ThreatCapability exploits the ObjectAtRisksVulnerability.
 
@@ -132,7 +132,7 @@ $$
 
 #### Rule D.ORC.ORV.TC
 
-<img src="rules_images/Rule_DORCORVTC.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORCORVTC.png" alt="Alt text" width="720"/>
 
 For any ThreatCapability, ObjectAtRisksVulnerability, and ObjectAtRisksCapability, if the ThreatCapability exploits the ObjectAtRisksVulnerability and the ObjectAtRisksVulnerability exposes the ObjectAtRisksCapability, then the ThreatCapability damages the ObjectAtRisksCapability.
 
@@ -142,7 +142,7 @@ $$
 
 #### Rule D.OR.ORC.TC.TO
 
-<img src="rules_images/Rule_DORORCTCTO.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_DORORCTCTO.png" alt="Alt text" width="720"/>
 
 For any ObjectAtRisk, ObjectAtRisksCapability, ThreatObject, and ThreatCapability, if the ObjectAtRisksCapability inheres in the ObjectAtRisk, the ThreatCapability inheres in the ThreatObject, and the ThreatCapability damages the ObjectAtRisksCapability, then the ThreatObject harms the ObjectAtRisk.
 
@@ -152,7 +152,7 @@ $$
 
 #### Rule R.ORV.TC.TE.TET
 
-<img src="rules_images/Rule_RORVTCTETET.png" alt="Alt text" width="500"/>
+<img src="rules_images/Rule_RORVTCTETET.png" alt="Alt text" width="720"/>
 
 For any ThreatCapability and ThreatEvent, if the ThreatCapability is manifested in the ThreatEvent, then there exists an ObjectAtRisksVulnerability and a ThreatEventType such that the ObjectAtRisksVulnerability defines the ThreatEventType, the ThreatEvent is an instance of the ThreatEventType, and the ThreatCapability can exploit the ObjectAtRisksVulnerability.
 
