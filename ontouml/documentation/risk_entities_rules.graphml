@@ -2269,7 +2269,7 @@
 			<data key="d4">
 				<x:List>
 					<y:Label LayoutParameter="{y:GraphMLReference 26}">
-						<y:Label.Text><![CDATA[Risk Entities - Rule]]></y:Label.Text>
+						<y:Label.Text><![CDATA[Risk Entities - Rule D.OR.TE.TET]]></y:Label.Text>
 						<y:Label.Style>
 							<yjs:DefaultLabelStyle backgroundFill="TRANSPARENT" verticalTextAlignment="CENTER" wrapping="CHARACTER_ELLIPSIS" backgroundStroke="TRANSPARENT" textWrappingShape="LABEL_SHAPE" font="{y:GraphMLReference 4}" textFill="BLACK"/>
 						</y:Label.Style>
@@ -2280,7 +2280,7 @@
 				<y:RectD X="-1483.25" Y="122.30320069204163" Width="1120.7877739331027" Height="396"/>
 			</data>
 			<data key="d7">
-				<yjs:GroupNodeStyle tabWidth="127" tabHeight="20" tabInset="3" tabPosition="TOP_TRAILING" groupIcon="MINUS" iconForegroundFill="{y:GraphMLReference 27}" iconOffset="2" minimumContentAreaSize="0,0" hitTransparentContentArea="true" tabBackgroundFill="{y:GraphMLReference 28}" contentAreaFill="{y:GraphMLReference 29}" tabFill="{y:GraphMLReference 30}" stroke="{y:GraphMLReference 31}" cssClass="y-group-node"/>
+				<yjs:GroupNodeStyle tabWidth="205" tabHeight="20" tabInset="3" tabPosition="TOP_TRAILING" groupIcon="MINUS" iconForegroundFill="{y:GraphMLReference 27}" iconOffset="2" minimumContentAreaSize="0,0" hitTransparentContentArea="true" tabBackgroundFill="{y:GraphMLReference 28}" contentAreaFill="{y:GraphMLReference 29}" tabFill="{y:GraphMLReference 30}" stroke="{y:GraphMLReference 31}" cssClass="y-group-node"/>
 			</data>
 			<graph id="n5:" edgedefault="directed">
 				<node id="n5::n0">
